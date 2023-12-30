@@ -1,0 +1,3 @@
+[09-Aug-2017 12:52:48 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/knpdemx9/public_html/pithoragarh/application/controllers/api.php on line 411
+[09-Aug-2017 12:53:08 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/knpdemx9/public_html/pithoragarh/application/controllers/api.php on line 411
+[09-Aug-2017 13:03:52 Asia/Kolkata] PHP Fatal error:  Call to undefined method CI_DB_mysql_result::num_row() in /home/knpdemx9/public_html/pithoragarh/application/controllers/api.php on line 406
